@@ -15,15 +15,15 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://vicharanashala.github.io',
+  url: 'https://ald2211.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/vled/',
+  baseUrl: '/check-docusauras/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'vicharanashala', // Usually your GitHub org/user name.
-  projectName: 'vled', // Usually your repo name.
+  organizationName: 'ald2211', // Usually your GitHub org/user name.
+  projectName: 'check-docusauras', // Usually your repo name.
 
   onBrokenLinks: 'ignore',
 
@@ -57,7 +57,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/vicharanashala/vled/tree/main/',
+            'https://github.com/ald2211/check-docusauras/tree/main/',
 
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
