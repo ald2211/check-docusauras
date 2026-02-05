@@ -72,7 +72,7 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
-
+deploymentBranch: "gh-pages",
   themeConfig: {
     // Replace with your project's social card
     image: 'img/log.png',
